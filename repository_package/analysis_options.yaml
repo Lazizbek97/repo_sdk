@@ -15,7 +15,7 @@
 
 # Uncomment the following section to specify additional rules.
 
-# linter:
+# linter: 
 #   rules:
 #     - camel_case_types
 
